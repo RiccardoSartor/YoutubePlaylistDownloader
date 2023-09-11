@@ -1,10 +1,9 @@
-# YoutubePlaylistDownloader
+# Youtube Playlist Downloader
 
-how to use:
--download the file "dist/app.exe"\n
--copy your playlist url from YouTube\n
--double click on "app.exe" downloaded before\n
--Done!\n\n
+how to use: <br />
+-download the file "dist/app.exe"<br />
+-copy your playlist url from YouTube <br />
+-double click on "app.exe" downloaded before <br />
+-Done!<br /><br />
 
-DISCLAIMER:\n
-The application was created for study purposes only, it is not intended to be used to download other people's copyrighted material.
+DISCLAIMER: The application was created for study purposes only, it is not intended to be used to download other people's copyrighted material.
